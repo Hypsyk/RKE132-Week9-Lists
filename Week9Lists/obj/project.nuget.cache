@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "kiQ4u0oSLoM7cyOkDqycxuO/0mHR0rNGgvI+iTOkmMJVVM0RoTqnEnQNiELbRYJ3oB2E2aNbz6MbHGUookA+Tg==",
+  "success": true,
+  "projectFilePath": "/Users/rasmust/Projects/Week9Lists/Week9Lists/Week9Lists.csproj",
+  "expectedPackageFiles": [
+    "/Users/rasmust/.nuget/packages/microsoft.aspnetcore.app.ref/6.0.31/microsoft.aspnetcore.app.ref.6.0.31.nupkg.sha512",
+    "/Users/rasmust/.nuget/packages/microsoft.netcore.app.host.osx-arm64/6.0.31/microsoft.netcore.app.host.osx-arm64.6.0.31.nupkg.sha512",
+    "/Users/rasmust/.nuget/packages/microsoft.netcore.app.ref/6.0.31/microsoft.netcore.app.ref.6.0.31.nupkg.sha512"
+  ],
+  "logs": []
+}

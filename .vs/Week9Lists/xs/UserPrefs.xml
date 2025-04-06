@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{71F0CF29-71BB-4EED-9DE5-7BE645F8649B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Week9Lists/Program.cs">
+    <Files>
+      <File FileName="Week9Lists/Program.cs" Line="13" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Week9Lists" expanded="True" selected="True">
+            <Node name="Week9Lists" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.Week9Lists PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+</Properties>
