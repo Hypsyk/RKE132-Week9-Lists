@@ -44,8 +44,8 @@ static void ShowItemsFromList(List<string> someList)
 {
     Console.Clear();
 
-    int listLenght = someList.Count;
-    Console.WriteLine($"You have added {listLenght} items to your shopping list.");
+    int listLength = someList.Count;
+    Console.WriteLine($"You have added {listLength} items to your shopping list.");
 
     int i = 1;
     foreach (string item in someList)
